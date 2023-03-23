@@ -1,0 +1,19 @@
+{
+    "description": "Collection of tools to support working with Firebase in Unity projects.", 
+    "displayName": "RobinBird.FirebaseTools", 
+    "keywords": [
+        "firebase", 
+        "unity"
+    ], 
+    "name": "robinbird.firebasetools", 
+    "readme": "Firebase Tools", 
+    "repoPackagePath": "", 
+    "repository": {
+        "type": "git", 
+        "url": "https://gitlab.com/robinbird-studios/libraries/unity-plugins/firebase-tools.git"
+    }, 
+    "version": "1.0.3",
+    "dependencies": {
+        "com.unity.addressables": "1.7.5"
+    }
+}
